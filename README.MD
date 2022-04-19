@@ -5,8 +5,7 @@
 ###
 Q1
 ###
-command used: ./1a.sh
-command used: ./1b.sh
+command used: ./q1.sh
 ###
 Q2
 ###
@@ -14,7 +13,7 @@ command used: ./q2.sh
 ###
 Q3
 ###
-command used: ./q3.sh
+command used: ./q3.sh ; ./q3e.sh
 ###
 Q4
 ###
@@ -24,5 +23,4 @@ Q5
 ###
 command used: ./q5.sh
 ###
-###
-here's the git repo link : https://github.com/arygup/iss_ass1
+here's the git repo link: https://github.com/arygup/iss_ass1
